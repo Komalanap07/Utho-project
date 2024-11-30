@@ -641,13 +641,13 @@ justify-content: center;
 }
 
 .ind{
-    height: 400px;
+    height: 430px;
     width: 90%;
     /* background-color: brown; */
     display: flex;
     gap: 130px;
     margin-bottom: 200px;
-    margin-left: 80px;
+    /* margin-left: 80px; */
 }
 .txt{
     height: 100%;
